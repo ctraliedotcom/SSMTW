@@ -1,0 +1,7 @@
+*SSM Warping Concept
+*Basis Warping Functions
+*Constrained DTW
+*Epicycloid example with warping paths
+*Weizmann warping paths full and partial
+*Jumping Jacks 1, Jumping Jacks 2
+*Cover Songs
